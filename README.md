@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adnanzami
-- 👀 I’m interested in Business Analytics.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning data mining and statistical analysis.
 - 💞️ I’m looking to collaborate on Big Data and ML projects.
 - 📫 How to reach me: hm.zami@northsouth.edu
