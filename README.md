@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning data mining and statistical analysis.
 - 💞️ I’m looking to collaborate on Big Data and ML projects.
-- 📫 How to reach me: hm.zami@northsouth.edu
+- 📫 How to reach me: adnan.zami.bd@gmail.com
 
 <!---
 adnanzami/adnanzami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
